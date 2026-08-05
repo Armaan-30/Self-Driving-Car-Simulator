@@ -16,7 +16,7 @@ The system works like this:
 - `drive.py` - Main server script that loads the model, receives simulator telemetry, predicts steering, and sends driving commands.
 - `model.h5` - Pretrained Keras model used for inference.
 - `requirements.txt` - Python dependencies required to run the project.
-- `Training Data Drive Link- https://drive.google.com/file/d/1RjGounrgGelA2gwDLPSdO-lz11vN8pOx/view?usp=sharing
+- `Training Data Drive Link` - https://drive.google.com/file/d/1RjGounrgGelA2gwDLPSdO-lz11vN8pOx/view?usp=sharing
 
 ## How it works
 
