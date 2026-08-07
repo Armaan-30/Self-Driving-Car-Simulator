@@ -13,6 +13,7 @@ The system works like this:
 
 ## Project files
 
+- `Udacity Car Sim` - https://github.com/udacity/self-driving-car-sim
 - `drive.py` - Main server script that loads the model, receives simulator telemetry, predicts steering, and sends driving commands.
 - `model.h5` - Pretrained Keras model used for inference.
 - `requirements.txt` - Python dependencies required to run the project.
